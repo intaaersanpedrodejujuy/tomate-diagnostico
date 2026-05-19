@@ -1,0 +1,64 @@
+```html
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <meta name="viewport"
+        content="width=device-width, initial-scale=1.0">
+
+  <title>Diagnóstico Tomate</title>
+
+  <link rel="stylesheet" href="style.css">
+
+  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+
+</head>
+
+<body>
+
+  <div class="container">
+
+    <h1>Diagnóstico Fitopatológico del Tomate</h1>
+
+    <div class="panel">
+
+      <label>Órgano afectado</label>
+
+      <select id="organoSelect">
+        <option value="">Seleccione</option>
+      </select>
+
+
+      <label>Categoría de síntoma</label>
+
+      <select id="categoriaSelect">
+        <option value="">Seleccione</option>
+      </select>
+
+
+      <label>Condición predisponente</label>
+
+      <select id="condicionSelect">
+        <option value="">Seleccione</option>
+      </select>
+
+
+      <button id="buscarBtn">
+        Diagnosticar
+      </button>
+
+    </div>
+
+    <div id="resultados"></div>
+
+  </div>
+
+  <script src="app.js"></script>
+
+</body>
+
+</html>
+```
