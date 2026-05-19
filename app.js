@@ -1,7 +1,3 @@
-```javascript
-document.body.innerHTML = `
-  <h1 style="color:red; font-size:50px;">
-    APP JS FUNCIONA
-  </h1>
-`;
+```javascript id="8yqg1s"
+alert("APP JS NUEVO FUNCIONANDO");
 ```
