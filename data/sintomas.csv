@@ -1,0 +1,12 @@
+﻿id_sintoma,id_localizacion,categoria_sintoma,descripcion_sintoma,progresion,peso_diagnostico
+1,1301,Mancha,Manchas oscuras acuosas rodeadas de micelio blanco,Inicial,40
+2,1301,Necrosis,Lesiones avanzan tomando toda la hoja,Intermedio,30
+3,1302,Necrosis,Estrangulamiento oscuro del tallo,Avanzado,50
+4,1303,Mancha,Fruto con zonas color chocolate,Avanzado,90
+5,1401,Marchitez,Marchitez severa irreversible,Inicial,80
+6,1401,Oscurecimiento,Oscurecimiento vascular interno,Intermedio,60
+7,1601,Necrosis,Bordes foliares necrosados,Inicial,50
+8,1602,Cancro,Cancros y raíces adventicias,Intermedio,70
+9,1603,Mancha,Ojo de pájaro en frutos,Avanzado,95
+10,2101,Anillos,Bronceado y anillos concéntricos,Inicial,75
+11,2102,Deformación,Frutos deformados con círculos,Avanzado,80

@@ -1,0 +1,27 @@
+﻿id_enfermedad,enfermedad,agente_causal,tipo_agente
+1,Tizón temprano del tomate,Alternaria solani,Hongo
+2,Mancha gris del tomate,Stemphylium solani,Hongo
+3,Marchitez por fusarium,Fusarium oxysporum f. sp. lycopersici,Hongo
+4,Polvillo o cenicilla,Oidium lycopersici / Oidium silicua,Hongo
+5,Chupadera o Mal de los almácigos,Fusarium spp. / Phytophthora spp. / otros,Complejo
+6,Moho gris,Botrytis cinerea,Hongo
+7,Podredumbre por colletotrichum,Colletotrichum spp.,Hongo
+8,Moho de la hoja,Fulvia fulva / Cladosporium fulvum,Hongo
+9,Raíz corchosa,Sin determinación,Desconocido
+10,Moho blanco,Sclerotinia sclerotiorum,Hongo
+11,Pata blanca,Sclerotium rolfsii,Hongo
+12,Marchitez por verticillium,Verticillium dahliae,Hongo
+13,Tizón tardío del tomate,Phytophthora infestans,Oomycete
+14,Marchitamiento bacteriano,Ralstonia solanacearum,Bacteria
+15,Médula hueca,Pseudomonas corrugata,Bacteria
+16,Cancro bacteriano,Clavibacter michiganensis subsp. michiganensis,Bacteria
+17,Mancha bacteriana,Xanthomonas spp.,Bacteria
+18,Podredumbre blanda,Erwinia carotovora subesp. carotovora,Bacteria
+19,Begomovirus,Especies de begomovirus,Virus
+20,Hojas cordón de zapato,Cucumber mosaic virus (CMV),Virus
+21,Peste negra,GRSV / TSWV / TCSV,Virus
+22,Decoloración del fruto,Toxinas de mosca blanca,Fisiológico
+23,Cabello de ángel,Cuscuta spp.,Maleza parásita
+24,Quemadura por frío,Bajas temperaturas,Abiótico
+25,Amarillamiento apical,Deriva por herbicida,Abiótico
+26,"2,4D",Deriva por herbicida,Abiótico

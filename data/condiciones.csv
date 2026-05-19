@@ -1,0 +1,11 @@
+﻿id_condicion,id_enfermedad,categoria_condicion,descripcion_condicion,peso_condicion
+1,13,Humedad,Alta humedad ambiental,40
+2,13,Temperatura,17 a 22 °C,30
+3,13,Agua libre,Neblina y llovizna persistente,35
+4,13,Riego,Exceso de riego,25
+5,14,Temperatura,Altas temperaturas,35
+6,14,Humedad,Elevada humedad en suelo,40
+7,16,Humedad,Alta humedad ambiental,35
+8,16,Trabajo cultural,Desbrote y entutorado húmedo,45
+9,21,Vector,Trips infectivos,50
+10,21,Malezas hospederas,Malezas portadoras del virus,35
